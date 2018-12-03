@@ -25,6 +25,9 @@
            <li>
               <a href="${pageContext.request.contextPath }/anon/tuling/render.do">聊天机器人</a>
           </li>
+          <li>
+              <a href="${pageContext.request.contextPath }/anon/suibi/render.do">更多</a>
+          </li>
       </ul>
           
 
